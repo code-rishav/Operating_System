@@ -1,0 +1,2 @@
+this is the original content of the file
+this is going to be copied into the final file
